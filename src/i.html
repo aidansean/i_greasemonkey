@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+    <title>i Popup</title>
+    <style>
+      body {
+        min-width: 270px;
+        overflow-x: hidden;
+      }
+
+      p{
+        font : 12pt arial , sans-serif ;
+        margin : 5px ;
+        padding : 0px ;
+      }
+      input{
+        margin : 0px ;
+      }
+    </style>
+
+    <!--
+      - JavaScript and HTML must be in separate files: see our Content Security
+      - Policy documentation[1] for details and explanation.
+      -
+      - [1]: http://developer.chrome.com/extensions/contentSecurityPolicy.html
+     -->
+    
+  </head>
+  <body onload="start()">
+  <form action="http://www.aidansean.com/indigo/" method="GET">
+    <p>Meeting id: <input id="i_id" type="text" name="meeting_id" value="" />
+    <input type="submit" id="i_submit" value="Go!"/></p>
+    <div id="test"></div>
+  </form>
+  <script src="i.js"></script>
+  </body>
+</html>
+
