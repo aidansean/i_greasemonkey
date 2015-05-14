@@ -1,9 +1,9 @@
-One of the projects I wrote was an indico uri shortening service, called <em>i</em> (or indigo, depending on how ugly "<em>i</em>" looks in context) but I wanted to go a step further.  So I write a greasemonkey script so that I could get to indico pages without even loading the main page.  This takes up very few pixels on the screen, making it much faster to get to the meeting pages.
+One of the projects I wrote was an indico uri shortening service, called <em><a hhref="http://aidansean.com/projects/?p=191">i</a></em> (or indigo, depending on how ugly "<em>i</em>" looks in context) but I wanted to go a step further.  So I write a greasemonkey script so that I could get to indico pages without even loading the main page.  This takes up very few pixels on the screen, making it much faster to get to the meeting pages.
 
 <h3>Links</h3>
 
-<a href="http://www.aidansean.com/i/">indigo page</a>
-<a href="https://github.com/aidansean/i_greasemonkey">GitHub repository</a>
+<a href="http://www.aidansean.com/indigo/">indigo page</a>
+<a href="https://github.com/aidansean/i">GitHub repository</a>
 
 <h3>Overview</h3>
 
